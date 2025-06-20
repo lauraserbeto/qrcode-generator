@@ -10,7 +10,8 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,97,255,1) 0%, rgba(96,239,255,1) 100.7% );;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,97,255,1) 0%, rgba(96,239,255,1) 100.7% );
+    overflow: hidden;
 }
 
 /*Container*/
