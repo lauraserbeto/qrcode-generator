@@ -9,7 +9,7 @@ Um projeto web leve e intuitivo para gerar QR Codes personalizados usando apenas
 ---
 
 <p align="center">
-  <img src="img/tela.png" alt="Tela do projeto QR Code Generator" width="450px">
+  <img src="img/tela1.png" alt="Tela do projeto QR Code Generator" width="450px">
 </p>
 
 ---
