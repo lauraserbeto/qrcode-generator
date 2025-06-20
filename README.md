@@ -35,7 +35,7 @@ Um projeto web leve e intuitivo para gerar QR Codes personalizados usando apenas
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- 🌐 [API: goqr.me](https://goqr.me/api/) para geração de códigos QR dinâmicos
+- 🌐 API externa: [goqr.me - QR Code Generator](https://goqr.me/api/)
 
 ---
 
